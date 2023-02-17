@@ -1,6 +1,6 @@
 ﻿namespace WebApi_Jwt.Interface
 {
-    public interface IUser
+    public interface IUsers
     {
         string getUsers();
     }
