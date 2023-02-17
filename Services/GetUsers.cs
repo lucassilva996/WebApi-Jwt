@@ -4,7 +4,7 @@ namespace WebApi_Jwt.Services
 {
     public class GetUsers : IUsers
     {
-        public string getUsers()
+        public string GetAllUsers()
         {
             return "Tá funfando";
         }

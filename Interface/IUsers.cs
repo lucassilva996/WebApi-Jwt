@@ -2,6 +2,6 @@
 {
     public interface IUsers
     {
-        string getUsers();
+        string GetAllUsers();
     }
 }
